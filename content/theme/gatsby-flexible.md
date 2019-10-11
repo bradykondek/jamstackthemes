@@ -1,4 +1,3 @@
-
 ---
 title: "Flexible Gatsby"
 github: https://github.com/wangonya/flexible-gatsby

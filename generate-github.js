@@ -13,7 +13,7 @@ const themeFiles = fs.readdirSync(themesFolder);
 let githubData = {};
 let errorsGithub = {}
 
-const token = process.env.GITHUB_TOKEN;
+const token = "3a129a6bee14e27f8e65aba7f6c86f98aba00066";
 
 console.log("***********************************")
 console.log("fetching Github data for each theme")
